@@ -58,13 +58,10 @@
 - [Order Tool - Bosch]:Backend developer ,design and implementation ,problem solving of Algorithms as an Engineering consultant of Bosch
 Developed an employee management system which is a java web application matches the employees
 working in Bosch with projects according to the skills needed .
-Technologies Used: java Spring Boot, Hibernate, JSON, Swagger,Databases(SQL), Git, CI/CD ,Scrum ,Devops, Openshift , Jira ,Angular , Bitbucket, X ray testing , VS Code ,Eclips
-- Backend Development (Java Spring Boot) für eine datenbankbasierte Webanwendung
--Erstellung des Nutzermodells für die Datenbank, um Zugriffsbeschränkungen für die Anwendung zu ermöglichen
-- Umsetzung von Algorithmen zur Sortierung von Suchergebnissen nach verschiedenen Anforderungskriterien
-- Durchführung von Updates und Bugfixes für die Anwendung 
-- Durchführung manueller Tests für alle Teilbereiche der Anwendung 
-- Umsetzung von Frontend Anforderungen mit Angular
+Technologies Used: java Spring Boot, Hibernate, JSON, Swagger,Databases(SQL), Git, CI/CD ,Scrum ,Devops, Openshift , Jira ,Angular , Bitbucket, X ray testing , VS Code ,Eclips Backend Development (Java Spring Boot) für eine datenbankbasierte Webanwendung
+,Erstellung des Nutzermodells für die Datenbank, um Zugriffsbeschränkungen für die Anwendung zu ermöglichen,
+Umsetzung von Algorithmen zur Sortierung von Suchergebnissen nach verschiedenen Anforderungskriterien
+
 - [Orga Tool - MVI Proplant]:Build a Competency profile generator for finding a certain employee with special skills needed 
 Build a knowledge Graph Ontology
 Working with Sparql queries ,SQl database and Json
