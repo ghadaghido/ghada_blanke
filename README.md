@@ -10,7 +10,6 @@
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=spring)
 ![Microservices](https://img.shields.io/badge/-Microservices-blue?style=flat-square)
-![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-blue?style=flat-square&logo=.net)
 ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-green?style=flat-square&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-grey?style=flat-square)
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-blue?style=flat-square)
@@ -54,7 +53,26 @@
 
 
 ## Current Projects
-- [AAS Dashbord API](https://github.com/eclipse-basyx/basyx-applications/tree/main/dashboard-api): The Dashboard API is a RESTful service that provides a backend for the AAS Web UI's Dashboard feature. It enables users to create, view and manage widgets for monitoring and controlling assets in an Industry 4.0 environment. The API is built using Spring Boot and is available as on off-the-shelf component from our Dockerhub repository.
-- [Test Orchestrator]:The Test Orchestrator is a Java-based project that validates and compares submodel elements against predefined schemas. The project aims to identify mismatches between elements based on specific semantic IDs and ensure that each element conforms to its expected structure. This is particularly useful for validating industry-specific standards or protocols, where precise schema matching is critical
-
-
+- [AAS Dashbord API -HTW](https://github.com/eclipse-basyx/basyx-applications/tree/main/dashboard-api): The Dashboard API is a RESTful service that provides a backend for the AAS Web UI's Dashboard feature. It enables users to create, view and manage widgets for monitoring and controlling assets in an Industry 4.0 environment. The API is built using Spring Boot and is available as on off-the-shelf component from our Dockerhub repository.
+- [Test Orchestrator- HTW]:The Test Orchestrator is a Java-based project that validates and compares submodel elements against predefined schemas. The project aims to identify mismatches between elements based on specific semantic IDs and ensure that each element conforms to its expected structure. This is particularly useful for validating industry-specific standards or protocols, where precise schema matching is critical
+- [Order Tool - Bosch]:Backend developer ,design and implementation ,problem solving of Algorithms as an Engineering consultant of Bosch
+Developed an employee management system which is a java web application matches the employees
+working in Bosch with projects according to the skills needed .
+Technologies Used: java Spring Boot, Hibernate, JSON, Swagger,Databases(SQL), Git, CI/CD ,Scrum ,Devops, Openshift , Jira ,Angular , Bitbucket, X ray testing , VS Code ,Eclips
+- Backend Development (Java Spring Boot) für eine datenbankbasierte Webanwendung
+-Erstellung des Nutzermodells für die Datenbank, um Zugriffsbeschränkungen für die Anwendung zu ermöglichen
+- Umsetzung von Algorithmen zur Sortierung von Suchergebnissen nach verschiedenen Anforderungskriterien
+- Durchführung von Updates und Bugfixes für die Anwendung 
+- Durchführung manueller Tests für alle Teilbereiche der Anwendung 
+- Umsetzung von Frontend Anforderungen mit Angular
+- [Orga Tool - MVI Proplant]:Build a Competency profile generator for finding a certain employee with special skills needed 
+Build a knowledge Graph Ontology
+Working with Sparql queries ,SQl database and Json
+Coding in Python and Flask 
+I expanded knowledge graph of the HR system for the company By adding skills and projects for employees 
+Has a solid specialist knowledge to build a knowledge graph and extract data from SQL JDBC endpoints and link to the knowledge graph 
+Build RDFs graph from scratch for Berlin department 
+Extract data using Sparql queries and retrieve data as API Json file 
+Build a whole python script to generate competency profile for employees as a word document 
+Decode and encode images and store in Knowledge graph 
+Build a GUI interface using flask
